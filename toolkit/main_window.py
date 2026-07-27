@@ -291,12 +291,12 @@ class MedicalImageToolkit(QMainWindow, ActionsMixin, UIGroupsMixin):
         reset_action.setShortcut("Ctrl+R")
         reset_action.triggered.connect(self.reset_image)
 
-        self.undo_action = QAction(QIcon("icons/rotate-cw.svg"), "Undo", self)
+        self.undo_action = QAction(QIcon("icons/rotate-ccw.svg"), "Undo", self)
         self.undo_action.setShortcut("Ctrl+Z")
         self.undo_action.triggered.connect(self.undo)
         self.undo_action.setEnabled(False)
 
-        self.redo_action = QAction(QIcon("icons/rotate-ccw.svg"), "Redo", self)
+        self.redo_action = QAction(QIcon("icons/rotate-cw.svg"), "Redo", self)
         self.redo_action.setShortcut("Ctrl+Shift+Z")
         self.redo_action.triggered.connect(self.redo)
         self.redo_action.setEnabled(False)
