@@ -164,6 +164,14 @@ Medical-image-processing-toolkit/
 8. Measure image statistics.
 9. Apply frequency-domain filtering.
 10. Register multiple images.
+---
+##Screenshots
+<img width="1727" height="1092" alt="image" src="https://github.com/user-attachments/assets/c4dc0159-b9f4-4aea-a782-36063bae3063" />
+
+<img width="1190" height="912" alt="image" src="https://github.com/user-attachments/assets/6ddd315b-7d4e-4fce-b8d7-096d55f85474" />
+<img width="506" height="246" alt="image" src="https://github.com/user-attachments/assets/16fa6740-7b85-4966-ab71-2b4eb835db41" />
+<img width="502" height="385" alt="image" src="https://github.com/user-attachments/assets/5fc0b095-8815-4a9f-8786-7318bf6dbafc" />
+<img width="497" height="395" alt="image" src="https://github.com/user-attachments/assets/18e65f42-16b2-4501-b2bf-760b1d2b9c80" />
 
 ---
 
