@@ -166,30 +166,6 @@ Medical-image-processing-toolkit/
 
 ---
 
-## Screenshots
-
-You can place screenshots inside a folder named:
-
-```
-screenshots/
-```
-
-Example:
-
-```
-screenshots/main_window.png
-screenshots/filters.png
-screenshots/frequency.png
-```
-
-Then display them:
-
-```markdown
-![Main Window](screenshots/main_window.png)
-```
-
----
-
 ## Future Improvements
 
 - DICOM support
