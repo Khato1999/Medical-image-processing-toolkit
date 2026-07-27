@@ -168,13 +168,11 @@ Medical-image-processing-toolkit/
 
 ## Future Improvements
 
-- DICOM support
 - 3D image visualization
 - Volume rendering
-- Medical segmentation algorithms
+- More medical segmentation algorithms
 - Deep Learning integration
 - GPU acceleration
-- Undo / Redo
 - Batch processing
 - Plugin system
 
