@@ -1,4 +1,5 @@
-# 🩺 Medical Image Processing Toolkit
+# <img width="1254" height="1254" alt="my_logo" src="https://github.com/user-attachments/assets/5127791b-d75f-419f-963e-92b76f58616f" />
+ Medical Image Processing Toolkit
 
 A desktop application for medical image processing built with **Python**, **PyQt6**, **OpenCV**, and **NumPy**.
 
